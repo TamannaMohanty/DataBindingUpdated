@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="sayhello">SayHello</string>
+    <string name="next">Next</string>
+</resources>
